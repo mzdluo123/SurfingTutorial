@@ -48,7 +48,7 @@
 由于面向的是计算机专业的学生，因此会添加Windows一些进阶功能的使用(例如控制面板的一些功能和Shell)
 
 * [截图的N种方式](chap3/screenshot-ways.md)
-* 硬盘的分区
+* [硬盘的分区](chap3/windows-disk.md)
 * 文件的属性
 * 我需要Windows防火墙吗
 * Windows网络设置
@@ -61,6 +61,18 @@
 可以从Python或c语言开始学习，可以在BiliBili搜索视频教程开始学习
 
 看完了上面的内容之后你应该能够独立通过搜索来解决学习中遇到的问题了！
+
+### 提问的艺术
+
+虽然大多数问题我们都可以通过搜索的手段解决，但有些问题我们需要别人的帮助才能完成。
+
+有些人不会提问，就算对方想教你也会因为你的问题描述有问题而有心无力。
+
+下面是由 `Eric S. Raymond, Rick Moen`编写的**How To Ask Questions The Smart Way**的中文版
+
+[How-To-Ask-Questions-The-Smart-Way/README.md at master · aptx4869yuyang2017/How-To-Ask-Questions-The-Smart-Way (github.com)](https://github.com/aptx4869yuyang2017/How-To-Ask-Questions-The-Smart-Way/blob/master/README.md)
+
+[tvvocold/How-To-Ask-Questions-The-Smart-Way: How To Ask Questions The Smart Way 《提问的智慧》中文版 (github.com)](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 
 
 ### BIOS(UEFI)的基本配置
