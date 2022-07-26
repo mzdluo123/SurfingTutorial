@@ -8,8 +8,6 @@
 
 ## 如何打开XMP
 
+很显然，笔记本用户是不需要打开XMP
+
 由于各个品牌对XMP的描述不一致，所以我们需要使用第一章学习到的知识，搜索如何开启XMP。
-
-# 参考
-
-[串行存在检测 - 维基百科，自由的百科全书 (wikipedia.org)](https://en.wikipedia.org/wiki/Serial_presence_detect#XMP)
