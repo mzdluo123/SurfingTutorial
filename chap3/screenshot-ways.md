@@ -55,3 +55,6 @@ windows的默认全屏截图是键盘上的`PrtSc`这个按键，按下这个键
 至于它有多好用，大家可以去看少数派的这篇文章
 
 [Windows 上最好的免费截图标注工具：Snipaste - 少数派 (sspai.com)](https://sspai.com/post/34962)
+
+
+
