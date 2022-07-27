@@ -32,9 +32,9 @@ Firefox 是由 mozilla 推出的一款注重用户隐私与安全的浏览器，
 
 [下载地址](https://www.mozilla.org/zh-CN/firefox/)
 
-> :warning: 警告
-> 请不要在此网站下载国内定制版火狐浏览器 `https://www.firefox.com.cn/` 它集成了非常多的广告。
-> 如果你不知道自己已经下载的 Firefox 是否是国内定制的火狐浏览器，请卸载并在 Firefox 官方网站重新下载安装。
+> :warning: 警告\
+> 请不要在此网站下载国内定制版火狐浏览器 ~~`https://www.firefox.com.cn/`~~ 它集成了非常多的广告，请在搜索时注意网页域名是否属于 **mozilla**。\
+> 如果你不确定自己已经下载的 Firefox 是否是国内定制的火狐浏览器，请卸载并在 Firefox 官方网站重新下载安装。~~一般地，看看有没有广告就很容易发现了。~~
 
 另外如果你对网页开发感兴趣，**Firefox 开发者版**有一些额外的功能可以帮助你开发。
 
