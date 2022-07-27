@@ -20,13 +20,39 @@
 
 [下载地址](https://www.microsoft.com/zh-cn/edge)
 
-
 ### 百分浏览器
 
 如果你无法下载上面的Edge可以试试这个
 
 [下载地址](https://www.centbrowser.cn/)
 
+### Firefox
+
+Firefox 是由 mozilla 推出的一款注重用户隐私与安全的浏览器，它完全开源，同时被集成在了很多 Linux 发行版中作为默认浏览器，你可以在下面的地址下载它：
+
+[下载地址](https://www.mozilla.org/zh-CN/firefox/)
+
+> :warning: 警告
+> 请不要在此网站下载国内定制版火狐浏览器 `https://www.firefox.com.cn/` 它集成了非常多的广告。
+> 如果你不知道自己已经下载的 Firefox 是否是国内定制的火狐浏览器，请卸载并在 Firefox 官方网站重新下载安装。
+
+### Chrome
+
+如果你知道如何科学上网并且是一名谷粉的话非常推荐你使用 chrome。
+
+[下载地址](https://www.google.com/chrome/)
+
+### Chromium
+
+Chrome 的开源版本，去除了谷歌的服务。
+
+[下载地址](https://www.chromium.org/)
+
+### min browser
+
+一款非常小巧的浏览器，功能简单且纯粹，没有任何乱七八糟的内容，如果你有电子洁癖的话非常推荐。顺带一提，这是一款开源的浏览器。
+
+[下载地址](https://minbrowser.org/)
 
 ## 使用浏览器
 
