@@ -16,13 +16,13 @@
 
 ![edge](../img/chap2_edge.png)
 
-如果你的电脑系统是较新的win10系统，则这个浏览器应该会直接内置在系统中 ~~没有找到可以去开始菜单~~
+如果你的电脑系统是较新的 win10 系统，则这个浏览器应该会直接内置在系统中 ~~没有找到可以去开始菜单~~
 
 [下载地址](https://www.microsoft.com/zh-cn/edge)
 
 ### 百分浏览器
 
-如果你无法下载上面的Edge可以试试这个
+如果你无法下载上面的 Edge 可以试试这个。它是 Chromium 的一个分支版本，类似 Chrome 但是有一些额外的小功能。
 
 [下载地址](https://www.centbrowser.cn/)
 
@@ -35,6 +35,10 @@ Firefox 是由 mozilla 推出的一款注重用户隐私与安全的浏览器，
 > :warning: 警告
 > 请不要在此网站下载国内定制版火狐浏览器 `https://www.firefox.com.cn/` 它集成了非常多的广告。
 > 如果你不知道自己已经下载的 Firefox 是否是国内定制的火狐浏览器，请卸载并在 Firefox 官方网站重新下载安装。
+
+另外如果你对网页开发感兴趣，**Firefox 开发者版**有一些额外的功能可以帮助你开发。
+
+[下载地址](https://www.mozilla.org/zh-CN/firefox/developer/)
 
 ### Chrome
 
