@@ -28,7 +28,7 @@
 
 如果你要下载QQ，在搜索引擎搜索`QQ`会得到下面的结果
 
-![qq搜索](/img/chap2_search_qq1.png)
+![qq搜索](../img/chap2_search_qq1.png)
 
 请问，你应该选择哪一个？
 
@@ -43,7 +43,7 @@
 
 下面是Bing的搜索结果，没有官网字样
 
-![qq搜索](/img/chap2_search_qq2.png)
+![qq搜索](../img/chap2_search_qq2.png)
 
 
 ## 通过下载站下载软件
@@ -52,14 +52,14 @@
 
 在百度搜索`FastCopy`
 
-![fastcopy](/img/chap2_search_fastcopy1.png)
+![fastcopy](../img/chap2_search_fastcopy1.png)
 
 红框内的内容通常是网站的标题，如果你看到标题类似图上那样的链接就是下载站。
 
 当你打开下载站的时候，你需要从下载站主页找到真正的软件下载链接。~~近几年情况已有所好转~~
 
 
-![fastcopy](/img/chap2_search_fastcopy2.png)
+![fastcopy](../img/chap2_search_fastcopy2.png)
 
 上图的红框部分是你需要选择的地方。根据上面的规则，请**不要点击**安全下载。点击下载链接或本地下载会跳转到下载链接界面。
 
