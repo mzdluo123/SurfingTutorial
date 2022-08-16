@@ -37,7 +37,7 @@
 
 * [浏览器的选择和基本设置](chap2/browser_choose.md)
 * [搜索引擎的使用和软件的下载](chap2/search_engine.md)
-* 我需要杀毒软件吗
+* [我需要杀毒软件吗](chap2/antivirus.md)
 * 浏览器的辅助工具
 * [使用BT](chap2/To_be_BT_master.md)
 * 如何找到需要的软件
