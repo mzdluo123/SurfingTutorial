@@ -24,11 +24,12 @@
 
 ---
 
-### 电脑的选购
+### 电脑的选购 与 安装
 
 关于这个问题在BiliBili上已经有很多作者制作了大量视频，请直接在B站搜索“电脑选购”
 
 * [内存和硬盘的区别](chap1/ram_disk.md)
+* [装机教程(视频教程)](https://www.bilibili.com/video/av818609247/)
 
 ### 网上冲浪
 
@@ -36,10 +37,9 @@
 
 * [浏览器的选择和基本设置](chap2/browser_choose.md)
 * [搜索引擎的使用和软件的下载](chap2/search_engine.md)
+* [浏览器的插件推荐](chap2/browser_plugins_recommend.md)
 * [我需要杀毒软件吗](chap2/antivirus.md)
-* 浏览器的辅助工具
 * [使用BT](chap2/To_be_BT_master.md)
-* 如何找到需要的软件
 * 开发者工具的一些简单操作
 
 ### Windows操作系统的使用
@@ -49,7 +49,6 @@
 * [截图的N种方式](chap3/screenshot-ways.md)
 * [硬盘的分区](chap3/windows-disk.md)
 * 文件的属性
-* 我需要Windows防火墙吗
 * Windows网络设置
 * 环境变量
 * CMD和PowerShell
