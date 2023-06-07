@@ -22,6 +22,8 @@
 
 **参考链接的内容仅供参考，不代表个人意见，请自行判断准确性**
 
+**可能会按照知识的顺序来编写，有些内容可能在前置章节已经介绍**
+
 ---
 
 ### 电脑的选购 与 安装
@@ -46,17 +48,19 @@
 
 由于面向的是计算机专业的学生，因此会添加Windows一些进阶功能的使用(例如控制面板的一些功能和Shell)
 
-* [截图的N种方式](chap3/screenshot-ways.md)
-* [硬盘的分区](chap3/windows-disk.md)
-* 文件的属性
+* [截图的N种方式](chap3/screenshot_ways.md)
+* [文件的属性](chap3/file_attributes.md)
+* [压缩包](chap3/unzip.md)
 * Windows网络设置
 * 环境变量
 * CMD和PowerShell
 * 用户和锁屏密码
 * 文件搜索
 * 压缩软件
-* 管理硬盘空间 - 软件删除 - 清理C盘
-
+* [硬盘的分区](chap3/windows_disk.md)
+* 管理硬盘空间 
+* 软件卸载
+* 清理C盘
 
 ### 编程语言的学习
 
