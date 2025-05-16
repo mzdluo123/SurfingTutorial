@@ -1,11 +1,10 @@
 # SurfingTutorial
 
-本教程是给中国新大学生的网上冲浪和计算机使用教程。
+本教程是给新大学生的网上冲浪和计算机使用教程。
 
 主要面向的是在上大学之前接触计算机较少的计算机专业同学，目的是让他们能在网络上顺利自学之后的计算机编程语言和相关内容。
 
-本文假设你已经会使用手机，并且已经会在常见的网站(BiliBili)上搜索视频教程观看。
-
+本文假设你已经会使用手机，并且已经会在常见的网站(BiliBili、百度)上搜索视频教程观看。
 
 ## 为什么要写这篇教程
 
@@ -23,13 +22,16 @@
 
 **参考链接的内容仅供参考，不代表个人意见，请自行判断准确性**
 
+**可能会按照知识的顺序来编写，有些内容可能在前置章节已经介绍**
+
 ---
 
-### 电脑的选购
+### 电脑的选购 与 安装
 
 关于这个问题在BiliBili上已经有很多作者制作了大量视频，请直接在B站搜索“电脑选购”
 
 * [内存和硬盘的区别](chap1/ram_disk.md)
+* [装机教程(视频教程)](https://www.bilibili.com/video/av818609247/)
 
 ### 网上冲浪
 
@@ -37,24 +39,28 @@
 
 * [浏览器的选择和基本设置](chap2/browser_choose.md)
 * [搜索引擎的使用和软件的下载](chap2/search_engine.md)
+* [浏览器的插件推荐](chap2/browser_plugins_recommend.md)
 * [我需要杀毒软件吗](chap2/antivirus.md)
-* 浏览器的辅助工具
 * [使用BT](chap2/To_be_BT_master.md)
-* 如何找到需要的软件
 * 开发者工具的一些简单操作
 
 ### Windows操作系统的使用
 
 由于面向的是计算机专业的学生，因此会添加Windows一些进阶功能的使用(例如控制面板的一些功能和Shell)
 
-* [截图的N种方式](chap3/screenshot-ways.md)
-* [硬盘的分区](chap3/windows-disk.md)
-* 文件的属性
-* 我需要Windows防火墙吗
+* [截图的N种方式](chap3/screenshot_ways.md)
+* [文件的属性](chap3/file_attributes.md)
+* [压缩包](chap3/unzip.md)
 * Windows网络设置
 * 环境变量
 * CMD和PowerShell
 * 用户和锁屏密码
+* 文件搜索
+* 压缩软件
+* [硬盘的分区](chap3/windows_disk.md)
+* 管理硬盘空间 
+* 软件卸载
+* 清理C盘
 
 ### 编程语言的学习
 
