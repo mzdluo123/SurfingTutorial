@@ -8,7 +8,7 @@ win11 shift+鼠标右键可调出传统管理
 
 ![图1](../img/chap3-disk1.png)
 
-![图2](\img\chap3-disk2.png)
+![图2](../img/chap3-disk2.png)
 
 ## 压缩卷
 
