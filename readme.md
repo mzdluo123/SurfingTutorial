@@ -1,3 +1,4 @@
+> ⚠️ 本项目目前已缺乏维护，内容可能不再更新。推荐大家参考 [AcWiKi](https://github.com/Ac-Wiki/AcWiKi) 项目，获取更全面和持续更新的计算机与互联网自学资料。
 # SurfingTutorial
 
 本教程是给新大学生的网上冲浪和计算机使用教程。
